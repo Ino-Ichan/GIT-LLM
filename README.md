@@ -2,17 +2,17 @@
 
 <a href='https://huggingface.co/Inoichan/GIT-Llama-2-7B'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a> 
 
-<img src="./images/rainbow_goose.png" width="50%" height="50%">
+<img src="./images/rainbow_goose.png">
 
 Welcome to the GIT-LLM repository. GIT-LLM is an innovative fusion of the GIT Vision and Language model with the linguistic capabilities of the LLM (Language Learning Model). Harnessing the power of both worlds, this model is fine-tuned using the LoRA (Local Re-Attention) method, optimizing it for enhanced performance in diverse vision and language tasks.
 
 # Examples
 
-<img src="./images/example_result_0.jpg" width="50%" height="50%">
+<img src="./images/example_result_0.jpg">
 
-<img src="./images/example_result_1.jpg" width="50%" height="50%">
+<img src="./images/example_result_1.jpg">
 
-<img src="./images/example_result_2.jpg" width="50%" height="50%">
+<img src="./images/example_result_2.jpg">
 
 # Installation
 1. Clone this repository
