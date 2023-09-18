@@ -1,5 +1,7 @@
 # GIT-LLM: Generative Image to text Transformer with Large Language Models
 
+## Now GIT-LLM is released as [heron library](https://github.com/turingmotors/heron). Please check out the latest version!!!
+
 <a href='https://huggingface.co/Inoichan/GIT-Llama-2-7B'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a> 
 
 <img src="./images/rainbow_goose.png">
