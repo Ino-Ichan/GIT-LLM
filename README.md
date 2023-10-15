@@ -34,9 +34,9 @@ pip install -e .
 ```
 
 ## For Llama 2
-First, you request access to the llama-2 models, in [huggingface page](https://huggingface.co/meta-llama/Llama-2-7b) and [facebook website](https://ai.meta.com/resources/models-and-libraries/llama-downloads/)
+First, you request access to the llama-2 models, in [Hugging Face page](https://huggingface.co/meta-llama/Llama-2-7b) and [facebook website](https://ai.meta.com/resources/models-and-libraries/llama-downloads/)
 
-Please sign-in the huggingface account
+Please sign-in the Hugging Face account
 ```bash
 huggingface-cli login
 ```
@@ -51,7 +51,7 @@ Now we support LLaMA, MPT, and OPT as a LLM module.
 
 # Evaluation
 
-You can get the pretrained weight form HuggingFace Hub: [Inoichan/GIT-Llama-2-7B](https://huggingface.co/Inoichan/GIT-Llama-2-7B)<br>
+You can get the pretrained weight form Hugging Face Hub: [Inoichan/GIT-Llama-2-7B](https://huggingface.co/Inoichan/GIT-Llama-2-7B)<br>
 See also [notebooks](./notebooks).
 
 ```python
